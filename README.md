@@ -1,7 +1,15 @@
 Technology Student Association Logos
 ========
 
-This repo contains vectored logos for the national and state delegations of the TSA (Technology Student Association). For information on usage, please see the official [Trademark Policies](http://www.tsaweb.org/Trademark-Policies).
+This repo contains vectored emblems (logos) for the national and state delegations of the TSA (Technology Student Association). For information on usage, please see the official [Trademark Policies](http://www.tsaweb.org/Trademark-Policies).
+
+#Emblem
+
+![Technology Student Association Vector Logo](/TSA-Technology-Student-Association-Emblem.png)
+
+##Font
+
+The official [Trademark Policies](http://www.tsaweb.org/Trademark-Policies) call for text in the emblem to be rendered with the Helvetica or Arial typefaces, though the official emblem uses the [ITC Avant Garde](http://en.wikipedia.org/wiki/ITC_Avant_Garde) typeface.
 
 #Colors
 
