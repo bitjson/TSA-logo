@@ -3,9 +3,15 @@ Technology Student Association Logos
 
 This repo contains vectored emblems (logos) for the national and state delegations of the TSA (Technology Student Association). For information on usage, please see the official [Trademark Policies](http://www.tsaweb.org/Trademark-Policies).
 
-#Emblem
+#National Emblem
 
 ![Technology Student Association Vector Logo](/TSA-Technology-Student-Association-Emblem.png)
+
+##State Emblems
+
+[Download — US States and Territories — State Delegation TSA Emblems.pdf ](https://github.com/jasondreyzehner/TSA-logo/raw/master/State%20Delegation%20TSA%20Emblems.pdf)
+
+[Download — All — State and International Delegation TSA Emblems.pdf ](https://github.com/jasondreyzehner/TSA-logo/raw/master/State%20and%20International%20Delegation%20TSA%20Emblems.pdf)
 
 ##Font
 
