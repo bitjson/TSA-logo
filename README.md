@@ -62,3 +62,26 @@ TSA Red is PMS 1795. Please see official Pantone Matching System swatches where 
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
 |   0  |   96    |   93   |      2      |
+
+# TSA Typographic Emblems
+
+![Technology Student Association Typographic Emblem - White on Black](/TSA%20Type%20Emblem%20-%20White%20on%20Black.png)
+![Technology Student Association Typographic Emblem - Black on White](/TSA%20Type%20Emblem%20-%20Black%20on%20White.png)
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/bitjson/TSA-logo">
+    <span property="dct:title">Jason Dreyzehner</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">TSA Typographic Emblems</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="https://github.com/bitjson/TSA-logo">
+  United States</span>.
+</p>
